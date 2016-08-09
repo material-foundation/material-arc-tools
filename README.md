@@ -1,6 +1,7 @@
 # arcanist tools used by the material team
 
-[![Build Status](https://travis-ci.org/material-foundation/material-arc-tools.svg?branch=develop)](https://travis-ci.org/material-foundation/material-arc-tools)
+This is a meta-repository that tracks each of the arcanist command line tools used by the material
+team.
 
 ## License
 
