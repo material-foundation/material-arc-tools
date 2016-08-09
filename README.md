@@ -8,7 +8,7 @@ team.
 Clone this directory alongside your global arcanist installation:
 
     cd <folder containing arcanist, libphutil>
-    git clone git@github.com:material-foundation/material-arc-tools.git
+    git clone --recursive git@github.com:material-foundation/material-arc-tools.git
 
 ## Using the tools
 
