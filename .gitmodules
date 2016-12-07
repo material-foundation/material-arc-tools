@@ -22,3 +22,6 @@
 [submodule "third_party/clang-format-linter"]
 	path = third_party/clang-format-linter
 	url = https://github.com/vhbit/clang-format-linter.git
+[submodule "third_party/arc-tslint"]
+	path = third_party/arc-tslint
+	url = https://github.com/material-foundation/arc-tslint.git
